@@ -26,5 +26,6 @@ open a few doors for future opportunities.
     - `AB_Brewery.IPA.csv`
 - `Datascience_project_Final.Rmd` Rmarkdown codebook with analysis
 - `Datascience_project_Final.Rmd.html` Knit HTML of the Datascience_project_Final.Rmd file. 
+- `Datascience_project_Final.pdf` Knit pdf of the Datascience_project_Final.Rmd file. 
 - `MSDS6306_BreweryEDA__AB_CC` Powerpoint presentation slides for final presentation to share our findings
 - `README.md` describes the purpose of the project and structure of the repository
