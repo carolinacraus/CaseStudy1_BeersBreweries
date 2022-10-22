@@ -1,7 +1,9 @@
 # Case Study #1: Beers and Breweries
 
 Authors: Carolina Craus & Anish Bhandari 
+
 Client: Budweiser Breweries 
+
 [Presentation Link (Carolina)](https://zoom.us/rec/share/zQ4aOhac5PfD9WrC4VJVCO9YTkVFnJnGjFbAJalMg_I-eJFvsOED4bDcHpdB9x5G.aSxLF9fkPp8HH314)
 
 ## Introduction 
